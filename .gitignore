@@ -1,0 +1,8 @@
+# config is ignore
+config/
+
+# pyexe is viatualenv for python
+pyexe27/
+
+# pyc is not needed
+*.pyc
